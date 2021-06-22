@@ -1,0 +1,101 @@
+position,book_name,goodreads_score ,author,ratings,url,rating,total_rating,pages
+1,All the Light We Cannot See,"13,004", Anthony Doerr, 4.32 avg rating — 1.143.599 ratings,https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see,4.32,"1,143,599",531
+2,The Nightingale,"11,123", Kristin Hannah, 4.57 avg rating — 808.151 ratings,https://www.goodreads.com/book/show/21853621-the-nightingale,4.57,"808,151",440
+3,The Girl on the Train,"10,776", Paula Hawkins, 3.93 avg rating — 2.299.436 ratings,https://www.goodreads.com/book/show/22557272-the-girl-on-the-train,3.93,"2,299,436",325
+4,The Fault in Our Stars,"9,596", John Green, 4.19 avg rating — 3.863.532 ratings,https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars,4.19,"3,863,532",313
+5,Gone Girl,"8,432", Gillian Flynn, 4.09 avg rating — 2.491.162 ratings,https://www.goodreads.com/book/show/19288043-gone-girl,4.09,"2,491,162",415
+6,Orphan Train,"5,897", Christina Baker Kline, 4.18 avg rating — 392.891 ratings,https://www.goodreads.com/book/show/15818107-orphan-train,4.18,"392,891",278
+7,Me Before You (Me Before You #1),"5,878", Jojo Moyes, 4.25 avg rating — 1.256.273 ratings,https://www.goodreads.com/book/show/15507958-me-before-you,4.25,"1,256,273",369
+8,The Goldfinch,"4,728", Donna Tartt, 3.92 avg rating — 770.233 ratings,https://www.goodreads.com/book/show/17333223-the-goldfinch,3.92,"770,233",771
+9,Big Little Lies,"4,122", Liane Moriarty, 4.28 avg rating — 810.417 ratings,https://www.goodreads.com/book/show/19486412-big-little-lies,4.28,"810,417",458
+10,The Invention of Wings,"3,779", Sue Monk Kidd, 4.23 avg rating — 280.569 ratings,https://www.goodreads.com/book/show/18079776-the-invention-of-wings,4.23,"280,569",384
+11,Sarah's Key,"3,694", Tatiana de Rosnay, 4.16 avg rating — 438.030 ratings,https://www.goodreads.com/book/show/556602.Sarah_s_Key,4.16,"438,030",294
+12,The Husband's Secret,"2,847", Liane Moriarty, 3.95 avg rating — 564.606 ratings,https://www.goodreads.com/book/show/17802724-the-husband-s-secret,3.95,"564,606",396
+13,Gray Mountain,"2,615", John Grisham, 3.60 avg rating — 85.533 ratings,https://www.goodreads.com/book/show/20707959-gray-mountain,3.6,"85,533",368
+14,Memory Man (Amos Decker #1),"2,135", David Baldacci, 4.07 avg rating — 117.487 ratings,https://www.goodreads.com/book/show/23153154-memory-man,4.07,"117,487",416
+15,Sycamore Row (Jake Brigance #2),"2,025", John Grisham, 4.04 avg rating — 111.348 ratings,https://www.goodreads.com/book/show/17288661-sycamore-row,4.04,"111,348",447
+16,The Escape (John Puller #3),"1,743", David Baldacci, 4.17 avg rating — 49.483 ratings,https://www.goodreads.com/book/show/20767918-the-escape,4.17,"49,483",470
+17,The Rosie Effect (Don Tillman #2),"1,625", Graeme Simsion, 3.62 avg rating — 116.800 ratings,https://www.goodreads.com/book/show/21844019-the-rosie-effect,3.62,"116,800",415
+18,Leaving Time,"1,619", Jodi Picoult, 3.96 avg rating — 150.406 ratings,https://www.goodreads.com/book/show/18816603-leaving-time,3.96,"150,406",398
+19,Be Careful What You Wish For (The Clifton Chronicles #4),"1,566", Jeffrey Archer, 4.10 avg rating — 33.080 ratings,https://www.goodreads.com/book/show/18404285-be-careful-what-you-wish-for,4.1,"33,080",387
+20,A Spool of Blue Thread,"1,544", Anne Tyler, 3.43 avg rating — 87.214 ratings,https://www.goodreads.com/book/show/22501028-a-spool-of-blue-thread,3.43,"87,214",358
+21,What Alice Forgot,"1,516", Liane Moriarty, 4.08 avg rating — 380.555 ratings,https://www.goodreads.com/book/show/6469165-what-alice-forgot,4.08,"380,555",476
+22,Before I Go,"1,169", Colleen Oakley, 3.80 avg rating — 12.059 ratings,https://www.goodreads.com/book/show/20871704-before-i-go,3.8,"12,059",309
+23,The Selection (The Selection #1),"1,161", Kiera Cass, 4.12 avg rating — 1.036.675 ratings,https://www.goodreads.com/book/show/10507293-the-selection,4.12,"1,036,675",336
+24,Edge of Eternity (The Century Trilogy #3),"1,16", Ken Follett, 4.14 avg rating — 86.896 ratings,https://www.goodreads.com/book/show/11389875-edge-of-eternity,4.14,"86,896",1098
+25,Station Eleven,"1,158", Emily St. John Mandel, 4.05 avg rating — 355.838 ratings,https://www.goodreads.com/book/show/20170404-station-eleven,4.05,"355,838",333
+26,As Chimney Sweepers Come to Dust (Flavia de Luce #7),"1,092", Alan Bradley, 3.95 avg rating — 24.506 ratings,https://www.goodreads.com/book/show/21874813-as-chimney-sweepers-come-to-dust,3.95,"24,506",392
+27,Revival,"1,08", Stephen King, 3.79 avg rating — 105.552 ratings,https://www.goodreads.com/book/show/20926278-revival,3.79,"105,552",405
+28,Paper Towns,"1,062", John Green, 3.77 avg rating — 1.017.490 ratings,https://www.goodreads.com/book/show/6442769-paper-towns,3.77,"1,017,490",305
+29,The Perks of Being a Wallflower,"1,061", Stephen Chbosky, 4.20 avg rating — 1.347.170 ratings,https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower,4.2,"1,347,170",213
+30,The Rosie Project (Don Tillman #1),"1,054", Graeme Simsion, 4.01 avg rating — 479.995 ratings,https://www.goodreads.com/book/show/17925125-the-rosie-project,4.01,"479,995",305
+31,Carry On (Simon Snow #1),881, Rainbow Rowell, 4.20 avg rating — 239.393 ratings,https://www.goodreads.com/book/show/23734628-carry-on,4.2,"239,393",522
+32,The Boston Girl,879, Anita Diamant, 3.81 avg rating — 79.555 ratings,https://www.goodreads.com/book/show/22450859-the-boston-girl,3.81,"79,555",320
+33,Golden Son (Red Rising Saga #2),877, Pierce Brown, 4.44 avg rating — 161.398 ratings,https://www.goodreads.com/book/show/18966819-golden-son,4.44,"161,398",430
+34,The Burning Room (Harry Bosch #17; Harry Bosch Universe #26),783, Michael Connelly, 4.10 avg rating — 50.282 ratings,https://www.goodreads.com/book/show/20881071-the-burning-room,4.1,"50,282",388
+35,Finders Keepers (Bill Hodges Trilogy #2),782, Stephen King, 4.04 avg rating — 120.989 ratings,https://www.goodreads.com/book/show/22453035-finders-keepers,4.04,"120,989",488
+36,Fangirl,778, Rainbow Rowell, 4.02 avg rating — 629.412 ratings,https://www.goodreads.com/book/show/16068905-fangirl,4.02,"629,412",483
+37,First Frost (Waverley Family #2),684, Sarah Addison Allen, 3.97 avg rating — 31.645 ratings,https://www.goodreads.com/book/show/21853633-first-frost,3.97,"31,645",296
+38,World After (Penryn & the End of Days #2),666, Susan Ee, 4.15 avg rating — 97.275 ratings,https://www.goodreads.com/book/show/17849112-world-after,4.15,"97,275",320
+39,Hush Hush (Hush Hush #1),665, Becca Fitzpatrick, 3.95 avg rating — 616.615 ratings,https://www.goodreads.com/book/show/6339664-hush-hush,3.95,"616,615",391
+40,The Bone Clocks,659, David Mitchell, 3.83 avg rating — 89.577 ratings,https://www.goodreads.com/book/show/20819685-the-bone-clocks,3.83,"89,577",624
+41,Dead Heat (Alpha & Omega #4 Mercy Thompson World - Complete #11),593, Patricia Briggs, 4.27 avg rating — 33.696 ratings,https://www.goodreads.com/book/show/22571699-dead-heat,4.27,"33,696",324
+42,All the Single Ladies (Lowcountry Tales #10),592, Dorothea Benton Frank, 3.61 avg rating — 9.553 ratings,https://www.goodreads.com/book/show/23215447-all-the-single-ladies,3.61,"9,553",357
+43,Red Queen (Red Queen #1),575, Victoria Aveyard, 4.04 avg rating — 657.103 ratings,https://www.goodreads.com/book/show/17878931-red-queen,4.04,"657,103",383
+44,Fallen (Fallen #1),572, Lauren Kate, 3.72 avg rating — 527.337 ratings,https://www.goodreads.com/book/show/6487308-fallen,3.72,"527,337",452
+45,Defending Jacob,571, William Landay, 3.99 avg rating — 278.134 ratings,https://www.goodreads.com/book/show/11367726-defending-jacob,3.99,"278,134",421
+46,In the Unlikely Event,566, Judy Blume, 3.54 avg rating — 62.690 ratings,https://www.goodreads.com/book/show/23899174-in-the-unlikely-event,3.54,"62,690",402
+47,Obsession in Death (In Death #40),496, J.D. Robb, 4.35 avg rating — 20.141 ratings,https://www.goodreads.com/book/show/22571696-obsession-in-death,4.35,"20,141",404
+48,Saint Odd (Odd Thomas #7),486, Dean Koontz, 4.17 avg rating — 19.361 ratings,https://www.goodreads.com/book/show/15722284-saint-odd,4.17,"19,361",352
+49,Torment (Fallen #2),483, Lauren Kate, 3.85 avg rating — 221.753 ratings,https://www.goodreads.com/book/show/7740152-torment,3.85,"221,753",452
+50,Our Souls at Night,478, Kent Haruf, 3.91 avg rating — 65.663 ratings,https://www.goodreads.com/book/show/23602562-our-souls-at-night,3.91,"65,663",179
+51,Rain on the Dead (Sean Dillon #21),396, Jack Higgins, 3.76 avg rating — 2.318 ratings,https://www.goodreads.com/book/show/20821202-rain-on-the-dead,3.76,"2,318",310
+52,Full Force and Effect (Jack Ryan #10),394, Mark Greaney, 4.24 avg rating — 9.391 ratings,https://www.goodreads.com/book/show/22825382-full-force-and-effect,4.24,"9,391",674
+53,Burned (Fever #7),392, Karen Marie Moning, 4.15 avg rating — 35.522 ratings,https://www.goodreads.com/book/show/12444297-burned,4.15,"35,522",475
+54,Hope to Die (Alex Cross #22),389, James Patterson, 4.18 avg rating — 24.496 ratings,https://www.goodreads.com/book/show/20800147-hope-to-die,4.18,"24,496",374
+55,Mightier Than the Sword (The Clifton Chronicles #5),388, Jeffrey Archer, 4.16 avg rating — 27.740 ratings,https://www.goodreads.com/book/show/21853645-mightier-than-the-sword,4.16,"27,740",400
+56,Dreaming Spies (Mary Russell and Sherlock Holmes #13),383, Laurie R. King, 4.07 avg rating — 8.243 ratings,https://www.goodreads.com/book/show/22318363-dreaming-spies,4.07,"8,243",331
+57,Pope Joan,383, Donna Woolfolk Cross, 4.07 avg rating — 67.124 ratings,https://www.goodreads.com/book/show/6587628-pope-joan,4.07,"67,124",534
+58,Funny Girl,364, Nick Hornby, 3.39 avg rating — 27.919 ratings,https://www.goodreads.com/book/show/22749994-funny-girl,3.39,"27,919",452
+59,The Buried Giant,297, Kazuo Ishiguro, 3.53 avg rating — 80.642 ratings,https://www.goodreads.com/book/show/22522805-the-buried-giant,3.53,"80,642",317
+60,Private Vegas (Private #9),296, James Patterson, 3.76 avg rating — 12.747 ratings,https://www.goodreads.com/book/show/21423303-private-vegas,3.76,"12,747",361
+61,Crash & Burn (Tessa Leoni #3),295, Lisa Gardner, 4.02 avg rating — 18.453 ratings,https://www.goodreads.com/book/show/22571612-crash-burn,4.02,"18,453",389
+62,Four: A Divergent Story Collection (Divergent #0.1-0.4),293, Veronica Roth, 4.01 avg rating — 176.750 ratings,https://www.goodreads.com/book/show/18126198-four,4.01,"176,750",208
+63,Last to Die (Rizzoli & Isles #10),292, Tess Gerritsen, 4.12 avg rating — 29.675 ratings,https://www.goodreads.com/book/show/13272498-last-to-die,4.12,"29,675",338
+64,Cold Cold Heart,292, Tami Hoag, 3.88 avg rating — 14.077 ratings,https://www.goodreads.com/book/show/18693918-cold-cold-heart,3.88,"14,077",389
+65,Somewhere Safe with Somebody Good (Mitford Years #12),288, Jan Karon, 4.27 avg rating — 12.230 ratings,https://www.goodreads.com/book/show/20702311-somewhere-safe-with-somebody-good,4.27,"12,230",511
+66,The Accidental Empress (Sisi #1),284, Allison Pataki, 3.88 avg rating — 13.671 ratings,https://www.goodreads.com/book/show/22609307-the-accidental-empress,3.88,"13,671",495
+67,What She Left Behind,278, Ellen Marie Wiseman, 3.90 avg rating — 43.592 ratings,https://www.goodreads.com/book/show/19802332-what-she-left-behind,3.9,"43,592",337
+68,Trigger Warning: Short Fictions and Disturbances,273, Neil Gaiman, 3.90 avg rating — 56.573 ratings,https://www.goodreads.com/book/show/22522808-trigger-warning,3.9,"56,573",310
+69,Seveneves,200, Neal Stephenson, 3.98 avg rating — 101.889 ratings,https://www.goodreads.com/book/show/22816087-seveneves,3.98,"101,889",880
+70,A Knight of the Seven Kingdoms (The Tales of Dunk and Egg #1-3),200, George R.R. Martin, 4.18 avg rating — 72.082 ratings,https://www.goodreads.com/book/show/18635622-a-knight-of-the-seven-kingdoms,4.18,"72,082",355
+71,The Girl in the Spider's Web (Millennium #4),200, David Lagercrantz, 3.77 avg rating — 149.219 ratings,https://www.goodreads.com/book/show/25196214-the-girl-in-the-spider-s-web,3.77,"149,219",416
+72,The Fifth Gospel,198, Ian Caldwell, 3.72 avg rating — 9.956 ratings,https://www.goodreads.com/book/show/22609406-the-fifth-gospel,3.72,"9,956",431
+73,A Thousand Pieces of You (Firebird #1),198, Claudia Gray, 3.89 avg rating — 53.460 ratings,https://www.goodreads.com/book/show/17234658-a-thousand-pieces-of-you,3.89,"53,460",368
+74,Shadows (The Rephaim #1),197, Paula Weston, 3.97 avg rating — 7.702 ratings,https://www.goodreads.com/book/show/13414835-shadows,3.97,"7,702",388
+75,The Assassin (Isaac Bell #8),196, Clive Cussler, 4.04 avg rating — 4.851 ratings,https://www.goodreads.com/book/show/22571740-the-assassin,4.04,"4,851",409
+76,Die Again (Rizzoli & Isles #11),196, Tess Gerritsen, 4.18 avg rating — 24.596 ratings,https://www.goodreads.com/book/show/21489683-die-again,4.18,"24,596",330
+77,Insatiable Appetites (Stone Barrington #32),196, Stuart Woods, 3.82 avg rating — 4.784 ratings,https://www.goodreads.com/book/show/22521941-insatiable-appetites,3.82,"4,784",320
+78,The Fixer,196, Joseph Finder, 3.70 avg rating — 6.701 ratings,https://www.goodreads.com/book/show/23281921-the-fixer,3.7,"6,701",376
+79,The Assassination Option (Clandestine Operations #2),195, W.E.B. Griffin, 4.10 avg rating — 1.919 ratings,https://www.goodreads.com/book/show/23013640-the-assassination-option,4.1,"1,919",481
+80,The Third Target (J. B. Collins #1),193, Joel C. Rosenberg, 4.28 avg rating — 5.916 ratings,https://www.goodreads.com/book/show/22798864-the-third-target,4.28,"5,916",450
+81,Dead Ice (Anita Blake Vampire Hunter #24),193, Laurell K. Hamilton, 3.91 avg rating — 13.344 ratings,https://www.goodreads.com/book/show/21066968-dead-ice,3.91,"13,344",566
+82,Brothers Forever,193, Patrick Winsor, 2.88 avg rating — 26 ratings,https://www.goodreads.com/book/show/27508183-brothers-forever,2.88,26,87
+83,The Wild Truth,193, Carine McCandless, 3.77 avg rating — 9.591 ratings,https://www.goodreads.com/book/show/23533629-the-wild-truth,3.77,"9,591",427
+84,Trust No One,191, Jayne Ann Krentz, 3.88 avg rating — 7.084 ratings,https://www.goodreads.com/book/show/22459697-trust-no-one,3.88,"7,084",327
+85,Flesh and Blood (Kay Scarpetta #22),188, Patricia Cornwell, 3.71 avg rating — 17.608 ratings,https://www.goodreads.com/book/show/20768868-flesh-and-blood,3.71,"17,608",369
+86,No Fortunate Son (Pike Logan #7),100, Brad Taylor, 4.36 avg rating — 4.442 ratings,https://www.goodreads.com/book/show/22522168-no-fortunate-son,4.36,"4,442",405
+87,Hush Hush (Tess Monaghan #12),100, Laura Lippman, 3.54 avg rating — 5.973 ratings,https://www.goodreads.com/book/show/22206617-hush-hush,3.54,"5,973",303
+88,Escape From Purgatory,100, Sephor Rud, 3.40 avg rating — 10 ratings,https://www.goodreads.com/book/show/25346822-escape-from-purgatory,3.4,10,240
+89,Faking Delinquency,100, Ashley Winters, 4.42 avg rating — 856 ratings,https://www.goodreads.com/book/show/23279538-faking-delinquency,4.42,856,190
+90,Ten Thousand Skies Above You (Firebird #2),100, Claudia Gray, 4.07 avg rating — 19.433 ratings,https://www.goodreads.com/book/show/17234659-ten-thousand-skies-above-you,4.07,"19,433",424
+91,Zoo Story: Life in the Garden of Captives,99, Thomas   French, 3.98 avg rating — 2.997 ratings,https://www.goodreads.com/book/show/8800886-zoo-story,3.98,"2,997",309
+92,Redeployment,98, Phil Klay, 3.97 avg rating — 22.420 ratings,https://www.goodreads.com/book/show/18114068-redeployment,3.97,"22,420",288
+93,Blueprints,98, Barbara Delinsky, 3.74 avg rating — 7.143 ratings,https://www.goodreads.com/book/show/23245586-blueprints,3.74,"7,143",416
+94,The Empty Throne (The Saxon Stories #8),97, Bernard Cornwell, 4.35 avg rating — 19.929 ratings,https://www.goodreads.com/book/show/21045103-the-empty-throne,4.35,"19,929",302
+95,The Mime Order (The Bone Season #2),96, Samantha Shannon, 4.20 avg rating — 22.026 ratings,https://www.goodreads.com/book/show/17901125-the-mime-order,4.2,"22,026",510
+96,Double Fudge Brownie Murder (Hannah Swensen #18),95, Joanne Fluke, 3.59 avg rating — 7.925 ratings,https://www.goodreads.com/book/show/22544406-double-fudge-brownie-murder,3.59,"7,925",356
+97,Leaving Berlin,95, Joseph Kanon, 3.66 avg rating — 6.823 ratings,https://www.goodreads.com/book/show/21943244-leaving-berlin,3.66,"6,823",371
+98,Bahía de los Misterios,95, Roberto Ampuero, 3.70 avg rating — 132 ratings,https://www.goodreads.com/book/show/18878443-bah-a-de-los-misterios,3.7,132,344
+99,El árbol de la vida (Trilogía del Malamor #3),93, José Ignacio Valenzuela, 4.09 avg rating — 305 ratings,https://www.goodreads.com/book/show/18218443-el-rbol-de-la-vida,4.09,305,406
+100,The Iron King (The Iron Fey #1),89, Julie Kagawa, 3.89 avg rating — 206.132 ratings,https://www.goodreads.com/book/show/6644117-the-iron-king,3.89,"206,132",363
