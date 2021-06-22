@@ -1,4 +1,4 @@
-# Scraping data Times_Fiction_Best_Sellers_2015
+#### Scraping data Times_Fiction_Best_Sellers_2015
 
 import bs4
 from urllib.request import urlopen as uReq
@@ -7,15 +7,12 @@ from bs4 import BeautifulSoup as soup
 my_url = 'https://www.goodreads.com/list/show/83612.NY_Times_Fiction_Best_Sellers_2015'
 my_url
 
-# opening dan connection to website
 uClient = uReq(my_url)
 page_html = uClient.read()
 uClient.close()
 
-# html parser
 page_soup = soup(page_html, "html.parser")
 
-# graps the product
 tds = page_soup.findAll("td", {"width":"100%","valign":"top"})
 
 file = "goog_reads.csv"
